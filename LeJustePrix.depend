@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1682954525 source:c:\users\user\documents\projets\lejusteprix\main.cpp
+	<iostream>
+	<array>
+	<random>
+	"constantes.h"
+	"jeu.h"
+	"menu.h"
+
+1682934330 c:\users\user\documents\projets\lejusteprix\constantes.h
+
+1682946012 c:\users\user\documents\projets\lejusteprix\jeu.h
+	<iostream>
+	<array>
+	"constantes.h"
+
+1682947328 source:c:\users\user\documents\projets\lejusteprix\jeu.cpp
+	<iostream>
+	<chrono>
+	"jeu.h"
+	"constantes.h"
+
+1682933844 source:c:\users\user\documents\projets\lejusteprix\menu.cpp
+	<iostream>
+	"menu.h"
+
+1682933444 c:\users\user\documents\projets\lejusteprix\menu.h
+

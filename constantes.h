@@ -1,0 +1,8 @@
+#ifndef CONSTANTES_H_INCLUDED
+#define CONSTANTES_H_INCLUDED
+
+const int BORNE_MIN{0};
+const int BORNE_MAX{10'000};
+const int NOMBRE_SCORES{3};
+
+#endif // CONSTANTES_H_INCLUDED
